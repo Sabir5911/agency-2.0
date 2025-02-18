@@ -1,0 +1,20 @@
+User-agent: *
+Disallow:
+
+# Allow Googlebot full access
+User-agent: Googlebot
+Disallow:
+
+# Block unnecessary pages
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /search?q=
+
+# Allow only necessary API access
+Disallow: /api/
+Allow: /api/public/
+
+# Specify your sitemap (important for SEO)
+Sitemap: https://codematesoultions.vercel.app/sitemap.xml
