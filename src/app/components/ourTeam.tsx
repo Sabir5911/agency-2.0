@@ -39,12 +39,12 @@ const profiles = [
     image: "/assets/team/munawar.jpg",
     user_links: data.munawar
   },
-  {
-    name: "Muhammed Talal",
-    role: "Flutter Developer",
-    image: "/assets/team/talal.png",
-    user_links: data.talal
-  },
+  // {
+  //   name: "Muhammed Talal",
+  //   role: "Flutter Developer",
+  //   image: "/assets/team/talal.png",
+  //   user_links: data.talal
+  // },
   {
     name: "Haseeb Tariq",
     role: "Backend Developer",
