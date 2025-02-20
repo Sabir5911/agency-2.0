@@ -14,7 +14,7 @@ let links={
     },
 
     muttee:{
-        linkedin:"https://www.linkedin.com/in/sabir5911/",
+        linkedin:"https://www.linkedin.com/in/mutee-ur-rehman-182014352/",
         twitter:"https://twitter.com",
         github:"https://www.github.com/sabir5911",
     },
@@ -31,14 +31,14 @@ let links={
         github:"https://github.com/MunawarAbbas313",
     },
 
-    talal:{
-        linkedin:"https://www.linkedin.com/in/sabir5911/",
-        twitter:"https://twitter.com",
-        github:"https://www.github.com/sabir5911",
-    },
+    // talal:{
+    //     linkedin:"https://www.linkedin.com/in/sabir5911/",
+    //     twitter:"https://twitter.com",
+    //     github:"https://www.github.com/sabir5911",
+    // },
 
     Hasseb:{
-        linkedin:"https://www.linkedin.com",
+        linkedin:"https://www.linkedin.com/in/haseeb-awan-7307582a4/",
         twitter:"https://twitter.com",
         github:"https://github.com/HaseebTariq45",
     }
